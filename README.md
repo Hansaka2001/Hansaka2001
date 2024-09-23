@@ -26,37 +26,37 @@ I'm an AI undergraduate with a passion for machine learning and data science. Cu
   <tr>
     <td align="center" width="96">
       <a href="#python">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#tensorflow">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TensorFlow" />
       </a>
       <br>TensorFlow
     </td>
     <td align="center" width="96">
       <a href="#pytorch">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+        <img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="PyTorch" />
       </a>
       <br>PyTorch
     </td>
     <td align="center" width="96">
       <a href="#sklearn">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-Learn" />
       </a>
       <br>Scikit-Learn
     </td>
     <td align="center" width="96">
       <a href="#pandas">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#numpy">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
       </a>
       <br>NumPy
     </td>
@@ -64,37 +64,37 @@ I'm an AI undergraduate with a passion for machine learning and data science. Cu
   <tr>
     <td align="center" width="96">
       <a href="#java">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="#javascript">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#react">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#docker">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#git">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#mongodb">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
@@ -102,31 +102,32 @@ I'm an AI undergraduate with a passion for machine learning and data science. Cu
   <tr>
     <td align="center" width="96">
       <a href="#flutter">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        <img src="https://skillicons.dev/icons?i=flutter" width="36" height="36" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#mysql">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#fastapi">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI" />
       </a>
       <br>FastAPI
     </td>
     <td align="center" width="96">
       <a href="#c">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" />
       </a>
       <br>C
     </td>
     </td>
   </tr>
 </table>
+
 
 ---
 
