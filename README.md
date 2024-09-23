@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hansaka-rukshan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:hansakarukshan43@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/Hansaka2001/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hansaka2001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <a href="https://www.instagram.com/hansaka_rukshan/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/hansaka.rukshan.22?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ---
@@ -151,14 +151,3 @@ I'm an AI undergraduate with a passion for machine learning and data science. Cu
 
 ---
 
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-  <p align="center">
-    <a href="https://www.instagram.com/hansaka_rukshan/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.facebook.com/hansaka.rukshan.22?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-  </p>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
