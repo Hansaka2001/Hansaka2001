@@ -142,13 +142,15 @@ I'm an AI undergraduate with a passion for machine learning and data science. Cu
 
 ---
 
-### 📈 GitHub Contribution Graph
 
+
+<!--
+### 📈 GitHub Contribution Graph
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansaka2001&theme=react-dark&hide_border=true" alt="Contribution Graph" />
   </a>
 </p>
-
+-->
 ---
 
